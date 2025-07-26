@@ -1,9 +1,12 @@
 UTS Pemrograman Berorientasi Obyek 2
+
 Mata Kuliah: Pemrograman Berorientasi Obyek 2
+
 Dosen Pengampu: Muhammad Ikhwan Fathulloh
 
 Profil
 Nama: Frecylia Eflyn
+
 NIM: 21552011099
 
 Studi Kasus: kasir Asuransi
