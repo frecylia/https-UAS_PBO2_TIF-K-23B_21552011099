@@ -33,4 +33,4 @@ Kelas Asuransi merupakan kelas abstrak yang hanya mendefinisikan kerangka umum t
 Demo Proyek
 Github: https://github.com/frecylia/https-UAS_PBO2_TIF-K-23B_21552011099
 
-Youtube: -
+Youtube: https://youtu.be/Mc7bWtRgBV4?si=vPp1KSEAnF1J6gDd
